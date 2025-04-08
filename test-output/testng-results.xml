@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-02-13T14:55:59 IST" name="Default suite" finished-at="2025-02-13T14:56:16 IST" duration-ms="17495">
+    <groups>
+    </groups>
+    <test started-at="2025-02-13T14:55:59 IST" name="Default test" finished-at="2025-02-13T14:56:16 IST" duration-ms="17495">
+      <class name="module_09.Ass_01_TestNG_SauceDemo">
+        <test-method is-config="true" signature="setup()[pri:0, instance:module_09.Ass_01_TestNG_SauceDemo@6aba2b86]" started-at="2025-02-13T14:55:59 IST" name="setup" finished-at="2025-02-13T14:56:04 IST" duration-ms="5518" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginsaucedemo()[pri:0, instance:module_09.Ass_01_TestNG_SauceDemo@6aba2b86]" started-at="2025-02-13T14:56:04 IST" name="loginsaucedemo" finished-at="2025-02-13T14:56:16 IST" duration-ms="11716" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginsaucedemo -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:module_09.Ass_01_TestNG_SauceDemo@6aba2b86]" started-at="2025-02-13T14:56:16 IST" name="closebrowser" finished-at="2025-02-13T14:56:16 IST" duration-ms="209" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- module_09.Ass_01_TestNG_SauceDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
